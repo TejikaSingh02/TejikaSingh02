@@ -5,7 +5,7 @@ I'm an aspiring Software Engineer and Open Source Contributor with a passion for
 
 - 🔭 I’m currently working on enhancing **AI functionality** and **Machine Learning models**.
 - 🌱 I’m currently learning advanced **Computer Vision** techniques.
-- 💬 Ask me about **Python**, **C++**, and **Open Source**.
+- 💬 Ask me about **Python**, **C++**,**Java** and **Open Source**.
 
 ### 🛠️ Tech Stack
 <p align="left">
