@@ -1,7 +1,7 @@
 # Hi there, I'm Tejika Singh! 👋
 
 ### 🚀 About Me
-I'm an aspiring Software Engineer and Open Source Contributor with a passion for building impactful tools. I specialize in **Python** and **C++**, and I love diving deep into machine learning frameworks like **TensorFlow**.
+I'm an aspiring Software Engineer and Open Source Contributor with a passion for building impactful tools. I specialize in **Python** ,**Java**, **C++**and **AI/ML** and I love diving deep into machine learning frameworks like **TensorFlow**.
 
 - 🔭 I’m currently working on enhancing **AI functionality** and **Machine Learning models**.
 - 🌱 I’m currently learning advanced **Computer Vision** techniques.
