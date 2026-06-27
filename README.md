@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Tejika%20Singh%20👋&fontSize=38&animation=fadeIn&fontColor=E85586" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hi%20there,%20I%27m%20Tejika%20Singh&fontSize=38&animation=fadeIn&fontColor=E85586" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <br/>
@@ -99,5 +99,5 @@ I am a passionate **Software Engineer** and **Open Source Contributor** dedicate
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote" />
   <br/><br/>
-  <img src="https://profile-counter.glitch.me/TejikaSingh02/count.svg" alt="Visitor Count" /> <b>Profile Views</b>
+  <img src="https://komarev.com/ghpvc/?username=TejikaSingh02&color=E85586&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
