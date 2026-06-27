@@ -1,8 +1,12 @@
 <div align="center">
 
-  <!-- Typing Header Animation -->
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Tejika%20Singh%20👋&fontSize=38&animation=fadeIn&fontColor=E85586" width="100%" alt="Header Banner" />
+
+  <!-- Animated Typing Subtitle -->
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E85586&center=true&vcenter=true&width=600&height=70&lines=Hi+there!+I'm+Tejika+Singh+👋;Aspiring+Software+Engineer;AI%2FML+%26+Computer+Vision+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;AI%2FML+%26+Computer+Vision+Enthusiast;Open+Source+Contributor" alt="Typing Subtitle" />
   </a>
 
   <p align="center">
