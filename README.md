@@ -52,14 +52,14 @@ I am a passionate **Software Engineer** and **Open Source Contributor** dedicate
 
   <p><b>AI, ML & Frameworks</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,sklearn&perline=6&theme=dark" alt="AI Frameworks" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,fastapi,flask&perline=6&theme=dark" alt="AI Frameworks" />
   </a>
 
   <br/><br/>
 
   <p><b>Tools & Platforms</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm,jupyter&perline=6&theme=dark" alt="Developer Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm,figma&perline=6&theme=dark" alt="Developer Tools" />
   </a>
 </div>
 
