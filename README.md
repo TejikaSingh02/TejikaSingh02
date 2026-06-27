@@ -1,39 +1,99 @@
-# Hi there, I'm Tejika Singh! 👋
+<div align="center">
 
-### 🚀 About Me
-I'm an aspiring Software Engineer and Open Source Contributor with a passion for building impactful tools. I specialize in **Python** ,**Java**, **C++** and **AI/ML** and I love diving deep into machine learning frameworks like **TensorFlow**.
+  <!-- Typing Header Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E85586&center=true&vcenter=true&width=600&height=70&lines=Hi+there!+I'm+Tejika+Singh+👋;Aspiring+Software+Engineer;AI%2FML+%26+Computer+Vision+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on enhancing **AI functionality** and **Machine Learning models**.
-- 🌱 I’m currently learning advanced **Computer Vision** techniques.
-- 💬 Ask me about **Python**, **C++**,**Java** and **Open Source**.
+  <p align="center">
+    <b>Building impactful software solutions through Code & Artificial Intelligence 🚀</b>
+  </p>
 
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-</p>
+  <!-- Quick Links / Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your.email@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/TejikaSingh02?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    </a>
+  </p>
+</div>
+
+---
+
+### 💫 About Me
+
+I am a passionate **Software Engineer** and **Open Source Contributor** dedicated to crafting efficient code and exploring cutting-edge intelligent systems.
+
+- 🔭 **Current Focus:** Enhancing AI functionality, fine-tuning machine learning pipelines, and building predictive models.
+- 🌱 **Learning Journey:** Diving deep into advanced **Computer Vision** techniques and neural architecture design.
+- 💬 **Ask Me About:** Python, C++, Java, Machine Learning algorithms, and TensorFlow.
+- ⚡ **Fun Fact:** I love dissecting complex problems into elegant code structures!
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <p><b>Languages</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js&perline=6&theme=dark" alt="Languages" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>AI, ML & Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,sklearn&perline=6&theme=dark" alt="AI Frameworks" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>Tools & Platforms</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm,jupyter&perline=6&theme=dark" alt="Developer Tools" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Analytics & Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=TejikaSingh02&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="Tejika's GitHub Stats" height="170px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejikaSingh02&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="170px" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejikaSingh02&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 ### 🌟 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| **[Python-Hand-Gesture-Recognition](https://github.com/TejikaSingh02/Python-Hand-Gesture-Recognition)** | Hand gesture recognition system using Python and OpenCV. |
-| **[titanic-ai](https://github.com/TejikaSingh02/titanic-ai)** | AI model predicting survival on the Titanic dataset. |
-| **[QuizMaker](https://github.com/TejikaSingh02/QuizMaker)** | Interactive quiz application. |
-| **[amplificationversion02](https://github.com/TejikaSingh02/amplificationversion02)** | *Project description placeholder* |
-
-<br/>
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TejikaSingh02&show_icons=true&theme=radical" alt="TejikaSingh02" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejikaSingh02&theme=radical" alt="TejikaSingh02" />
-</p>
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🤖 **AI & ML Models** | Advanced Machine Learning models for intelligent data processing and prediction. | `Python` `TensorFlow` | [Explore 🚀](https://github.com/TejikaSingh02?tab=repositories) |
+| 👁️ **Computer Vision Labs** | Experiments in image classification, object detection, and visual recognition. | `Python` `OpenCV` | [Explore 🚀](https://github.com/TejikaSingh02?tab=repositories) |
+| 💻 **Software Engineering Practice** | Core algorithms, data structures, and object-oriented projects in C++ & Java. | `C++` `Java` | [Explore 🚀](https://github.com/TejikaSingh02?tab=repositories) |
 
 ---
-<p align="center">Let's connect and build something amazing together!</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote" />
+  <br/><br/>
+  <img src="https://profile-counter.glitch.me/TejikaSingh02/count.svg" alt="Visitor Count" /> <b>Profile Views</b>
+</div>
